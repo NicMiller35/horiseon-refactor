@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -162,15 +162,15 @@ aside {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
 .search-engine-optimization h2 {
